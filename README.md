@@ -1,2 +1,2 @@
 # MaximalPoints
-A Java project for UMGC coursework.
+2D point visualizer that highlights maximal points using JavaFX.
